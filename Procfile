@@ -1,1 +1,1 @@
-worker: 2m.py
+worker: python test_init_final.py
