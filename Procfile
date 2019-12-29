@@ -1,1 +1,1 @@
-worker: 2.py
+worker: 2m.py
